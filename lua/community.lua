@@ -20,5 +20,4 @@ return {
   { import = "astrocommunity.programming-language-support.csv-vim" },
   { import = "astrocommunity.programming-language-support.rest-nvim" },
   { import = "astrocommunity.terminal-integration.vim-tmux-navigator" },
-  { import = "astrocommunity.terminal-integration.vim-tmux-yank" },
 }
